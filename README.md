@@ -11,7 +11,7 @@ This package mainly consists of a templatetag which facilitates the import of th
 Install the package:
 
 ```sh
-pip install django-svelte
+pip install -e git+https://github.com/dmgolembiowski/django-svelte.git
 ```
 
 Add to INSTALLED_APPS:
