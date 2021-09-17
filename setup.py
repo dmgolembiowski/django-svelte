@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="django-svelte",
-    author="Paul Stiverson",
+    author="Paul Stiverson and dmgolembiowski",
     url="https://github.com/thismatters/django-svelte/",
-    version="0.1.6",
+    version="0.2.0",
     packages=find_packages(),
     license="MIT",
     description="Facilitates adding Svelte frontend to Django",
